@@ -1,0 +1,44 @@
+header{
+    background: rgb(5, 5, 245);
+    height: 300px;
+}
+article{
+margin-right: 11.3%;
+margin-left: 11.3%
+}
+img{
+    height:250px;
+    width: 320px;
+    margin: 2%;
+}
+#logo{
+    position: absolute;
+}
+li{
+    border-bottom: solid 1px rgb(0, 0, 255);
+    display: inline;
+    margin: 1%
+}
+ul{
+margin-left: 37%;
+}
+h1{
+    margin-top: 6%;
+    margin-left: 37%;
+    position: absolute; 
+    color: rgb(100,255,100);
+}
+marquee{
+color: rgb(243, 12, 12);
+font-size: 100px;
+font-weight: 200;
+}
+h2{
+color:white;
+}
+h3{
+    color: white;
+}
+br{
+    color: greenyellow
+}

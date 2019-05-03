@@ -1,0 +1,36 @@
+header{
+    background: rgb(243, 243, 183);
+    height: 250px;
+}
+article{
+margin-right: 11.3%;
+margin-left: 11.3%
+}
+img{
+    height:250px;
+    width: 300px;
+    margin: 2%;
+}
+#logo{
+    position: absolute;
+}
+li{
+    border-bottom: solid 1px rgb(150,150,255);
+    display: inline;
+    margin: 1%
+}
+ul{
+margin-left: 37%;
+}
+h1{
+    margin-top: 6%;
+    margin-left: 37%;
+    position: absolute; 
+    color: rgb(100,255,100);
+}
+span{
+color: rgb(255,100,100);
+}
+label{
+color: rgb(100,100,255);
+}
